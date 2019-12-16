@@ -121,15 +121,15 @@ He Tangata Kei Tua [(PDF)](https://www.genomics-aotearoa.org.nz/sites/default/fi
 Estonia launched a population based, voluntary, longitudinal prospective research oriented biobank in the year 2000 with a broad informed consent. The original biobank grew to 52,000 participants with a rapid increase in 2018 to 100,000 participants. Linking health data resources is currently ongoing. Main genetic feedback use cases have been focussed around polygenic risk scores for diabetes, cardiovascular diseases, breast cancer, and early menopause. A recent pharmacogenetic use case established that almost everyone carries a variant of some of the drug metabolising genes that would require change of dosage for at least some drug. A cascading recall study has been performed for familial hypercholesterolemia genetic variant carriers. Based on such successes the implementation of linking the genetic data to health IT systems is being planned on the national level.*
 > source: https://www.dtls.nl/2018/11/26/estonian-biobank-presented-by-jaak-vilo-elixir-estonia-at-ubc-seminar/
 
-### ELIXIR Estonia (https://elixir.ut.ee/)
+### ELIXIR Estonia ([link](https://elixir.ut.ee/))
 
 > *The purpose of ELIXIR is to construct and operate a sustainable infrastructure for biological information in Europe to support life science research and its translation to medicine and the environment, the bio-industries and society. These resources include databases, software tools, training materials, cloud storage and supercomputers.*
 
 Some news articles:
 
-* **Estonia offering 100,000 residents free genetic testing**: https://news.err.ee/690889/estonia-offering-100-000-residents-free-genetic-testing
-* **Estonia’s giant initiative to deliver the benefits of genetic data**: https://sciencebusiness.net/news/estonias-giant-initiative-deliver-benefits-genetic-data
-* **Estonia houses the biggest biobank in Europe**: https://www.forbes.com/sites/yiannismouratidis/2019/01/30/estonia-houses-the-biggest-biobank-in-europe/#128eed0b227a
+* **Estonia offering 100,000 residents free genetic testing**: [link](https://news.err.ee/690889/estonia-offering-100-000-residents-free-genetic-testing)
+* **Estonia’s giant initiative to deliver the benefits of genetic data**: [link](https://sciencebusiness.net/news/estonias-giant-initiative-deliver-benefits-genetic-data)
+* **Estonia houses the biggest biobank in Europe**: [link](https://www.forbes.com/sites/yiannismouratidis/2019/01/30/estonia-houses-the-biggest-biobank-in-europe/#128eed0b227a)
 
 -----
 
@@ -137,9 +137,11 @@ Some news articles:
 
 > *Taonga species are native birds, plants and animals of special cultural significance and importance to Māori.*
 
-* older blog post but still very relevant (from the now director of Genomics Aotearoa): https://sciblogs.co.nz/genomics-aotearoa/2015/07/26/taonga-genomes/
+* older blog post but still very relevant (from the now director of Genomics Aotearoa): [link](https://sciblogs.co.nz/genomics-aotearoa/2015/07/26/taonga-genomes/)
 
-### Taonga more generally (interesting tweets)
+### Taonga more generally 
+
+Some interesting tweets:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wonderful to hear about data sovereignty <a href="https://twitter.com/GenomicsNZ?ref_src=twsrc%5Etfw">@GenomicsNZ</a> with Dr Ann McMartney. Working with the custodians of indigenous species to ensure respectful data use <a href="https://twitter.com/hashtag/alcs2019?src=hash&amp;ref_src=twsrc%5Etfw">#alcs2019</a> <a href="https://twitter.com/NCInews?ref_src=twsrc%5Etfw">@NCInews</a> <a href="https://t.co/pmuE16OQeD">pic.twitter.com/pmuE16OQeD</a></p>&mdash; Dr Rebecca Farrington (@_BecFarrington_) <a href="https://twitter.com/_BecFarrington_/status/1192286498101448706?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
@@ -151,7 +153,9 @@ Some news articles:
 
 -----
 
-## SING Aotearoa (https://www.singaotearoa.nz/) - Summer Internship for Indigenous Genomics Aotearoa
+## SING Aotearoa ([link](https://www.singaotearoa.nz/))
+
+**Summer Internship for Indigenous Genomics Aotearoa**
 
 > *The SING Aotearoa programme is designed to develop indigenous understanding of genomics alongside some of the best researchers in New Zealand and the world.  It is a week-long residential internship programme providing participants with knowledge and experience in wet-labs (biological samples, DNA), dry labs (computer analysis, biostatistics) and simulation labs (cultural and ethical scenarios).
 >
