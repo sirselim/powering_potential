@@ -32,14 +32,31 @@ If you are here you probably already know this, but just in case:
 
 ## The Human Genome Project
 
+#### Then
+
 * a 13-year-long, publicly funded project
   * initiated in 1990
   * 'completed' 2003
   * so 13 years total (was estimated to be 15 years)
+
 * the human genome is ~3,234.83 Mb (**3.2 billion base pairs**)
+
 * the project cost ~$3 billion USD
   * that equates to roughly $1 per base pair
+
 * the 'completed' genome was a mosaic, i.e. a combination of multiple different genomes from donors
+
+* this was a massive international collaborative effort featuring MANY people, institutes, technologies, etc.
+
+#### Now
+
+* with todays technology it's possible to sequence a whole genome in <24 hrs
+
+* it's approaching the $1000 USD per genome mark for cost
+
+* we're approaching the point where this can be down on a 'tiny' portable device
+
+![minION](https://spectrum.ieee.org/image/MjczMjE5MQ.jpeg)
 
 -----
 
