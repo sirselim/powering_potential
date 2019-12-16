@@ -59,6 +59,8 @@ If you are here you probably already know this, but just in case:
 ![minION](https://spectrum.ieee.org/image/MjczMjE5MQ.jpeg)
 *source:* https://tinyurl.com/sblxlra
 
+**For interest:** nanopore sequencing is an amazing 'real-time' technology. If you'd like to see a really good overview this youtube video from Dr David Eccles is excellent: [link](https://www.youtube.com/watch?v=CHCAb-PAqUI)
+
 -----
 
 ## Whole genome sequencing
