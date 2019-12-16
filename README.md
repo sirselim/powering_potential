@@ -36,3 +36,18 @@ He Tangata Kei Tua [(PDF)](https://www.genomics-aotearoa.org.nz/sites/default/fi
 * project overview: https://www.genomics-aotearoa.org.nz/projects/rakeiora-pathfinder-genomic-medicine
 
 * news article: http://healthcentral.nz/5m-project-to-begin-building-nzs-first-gene-bank/
+
+## Estonia genome project
+
+> *Estonian Biobank and Personalised Medicine Initiative
+Estonia launched a population based, voluntary, longitudinal prospective research oriented biobank in the year 2000 with a broad informed consent. The original biobank grew to 52,000 participants with a rapid increase in 2018 to 100,000 participants. Linking health data resources is currently ongoing. Main genetic feedback use cases have been focussed around polygenic risk scores for diabetes, cardiovascular diseases, breast cancer, and early menopause. A recent pharmacogenetic use case established that almost everyone carries a variant of some of the drug metabolising genes that would require change of dosage for at least some drug. A cascading recall study has been performed for familial hypercholesterolemia genetic variant carriers. Based on such successes the implementation of linking the genetic data to health IT systems is being planned on the national level.*
+> source: https://www.dtls.nl/2018/11/26/estonian-biobank-presented-by-jaak-vilo-elixir-estonia-at-ubc-seminar/
+
+### ELIXIR Estonia (https://elixir.ut.ee/)
+
+> *The purpose of ELIXIR is to construct and operate a sustainable infrastructure for biological information in Europe to support life science research and its translation to medicine and the environment, the bio-industries and society. These resources include databases, software tools, training materials, cloud storage and supercomputers.*
+
+Some news articles:
+
+* **Estonia offering 100,000 residents free genetic testing**: https://news.err.ee/690889/estonia-offering-100-000-residents-free-genetic-testing
+* 
