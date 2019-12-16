@@ -57,13 +57,13 @@ This TED talk covers several of the points and topics we discussed on the aftern
 
 ##### What is genetic discrimination?
 
-> Genetic discrimination occurs when people are treated differently by their employer or insurance company because they have a gene mutation that causes or increases the risk of an inherited disorder. Fear of discrimination is a common concern among people considering genetic testing.
+> *Genetic discrimination occurs when people are treated differently by their employer or insurance company because they have a gene mutation that causes or increases the risk of an inherited disorder. Fear of discrimination is a common concern among people considering genetic testing.*
 >
-> Several laws at the federal and state levels help protect people against genetic discrimination. In particular, a federal law called the Genetic Information Nondiscrimination Act (GINA) is designed to protect people from this form of discrimination.
+> *Several laws at the federal and state levels help protect people against genetic discrimination. In particular, a federal law called the Genetic Information Nondiscrimination Act (GINA) is designed to protect people from this form of discrimination.*
 >
-> GINA has two parts: Title I, which prohibits genetic discrimination in health insurance, and Title II, which prohibits genetic discrimination in employment. Title I makes it illegal for health insurance providers to use or require genetic information to make decisions about a person's insurance eligibility or coverage. This part of the law went into effect on May 21, 2009. Title II makes it illegal for employers to use a person's genetic information when making decisions about hiring, promotion, and several other terms of employment. This part of the law went into effect on November 21, 2009.
+> *GINA has two parts: Title I, which prohibits genetic discrimination in health insurance, and Title II, which prohibits genetic discrimination in employment. Title I makes it illegal for health insurance providers to use or require genetic information to make decisions about a person's insurance eligibility or coverage. This part of the law went into effect on May 21, 2009. Title II makes it illegal for employers to use a person's genetic information when making decisions about hiring, promotion, and several other terms of employment. This part of the law went into effect on November 21, 2009.*
 >
-> GINA and other laws do not protect people from genetic discrimination in every circumstance. For example, GINA does not apply when an employer has fewer than 15 employees. GINA also does not protect against genetic discrimination in forms of insurance other than health insurance, such as life, disability, or long-term care insurance.
+> *GINA and other laws do not protect people from genetic discrimination in every circumstance. For example, GINA does not apply when an employer has fewer than 15 employees. GINA also does not protect against genetic discrimination in forms of insurance other than health insurance, such as life, disability, or long-term care insurance.*
 
 * *source [link](https://ghr.nlm.nih.gov/primer/testing/discrimination)*
 
@@ -71,7 +71,7 @@ This TED talk covers several of the points and topics we discussed on the aftern
 
 ## Genomics Aotearoa
 
-> *Genomics Aotearoa is an agile, leading-edge and collaborative platform, established to ensure that New Zealand is internationally participating and leading in the rapidly developing fields of genomics (the study of the genome, the complete set of genetic material present in a cell or organism) and bioinformatics (the development of methods and software tools for understanding the biological data derived from genomics). *
+> *Genomics Aotearoa is an agile, leading-edge and collaborative platform, established to ensure that New Zealand is internationally participating and leading in the rapidly developing fields of genomics (the study of the genome, the complete set of genetic material present in a cell or organism) and bioinformatics (the development of methods and software tools for understanding the biological data derived from genomics).*
 
 * GA Website: [link](https://www.genomics-aotearoa.org.nz/)
 
