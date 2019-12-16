@@ -132,10 +132,7 @@ Some news articles:
 
 ### Taonga more generally (interesting tweets)
 
-<p>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Check out my iOS game, High5! <a href="https://t.co/QZEKLg3G2i">https://t.co/QZEKLg3G2i</a></p>&mdash; Keita Ito (@keitaitok) <a href="https://twitter.com/keitaitok/status/504110217940836353">August 26, 2014</a></blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finally, v4.0 is here! 🎉 Instant Analytics view, R Markdown integration, Bayesian A/B Testing &amp;more! <a href="https://t.co/lt1l3FXgHz">https://t.co/lt1l3FXgHz</a></p>&mdash; exploratory (@ExploratoryData) <a href="https://twitter.com/ExploratoryData/status/895164490936979456">August 9, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 -----
 
