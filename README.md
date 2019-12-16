@@ -4,12 +4,15 @@ You can scan the below on your phone/tablet to access this site:
 
 ![](frame.png)
 
+-----
+
 ## Genomics Aotearoa
 
 > *Genomics Aotearoa is an agile, leading-edge and collaborative platform, established to ensure that New Zealand is internationally participating and leading in the rapidly developing fields of genomics (the study of the genome, the complete set of genetic material present in a cell or organism) and bioinformatics (the development of methods and software tools for understanding the biological data derived from genomics). *
 
 * https://www.genomics-aotearoa.org.nz/
 
+-----
 
 ## Te-Mata-Ira-Genome-Research-Guidelines
 
@@ -29,11 +32,15 @@ October 2016
 
 He Tangata Kei Tua [(PDF)](https://www.genomics-aotearoa.org.nz/sites/default/files/2019-03/He-Tangata-Kei-Tua-Biobanking-Guidelines.pdf)
 
+-----
+
 ## The Global Alliance for Genomics and Health (https://www.ga4gh.org/)
 
 **Enabling responsible genomic data sharing for the benefit of human health**
 
 > *The Global Alliance for Genomics and Health (GA4GH) is a policy-framing and technical standards-setting organization, seeking to enable responsible genomic data sharing [within a human rights framework](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/framework-for-responsible-sharing-of-genomic-and-health-related-data/).*
+
+-----
 
 ## Rakeiora: A pathfinder for genomic medicine in Aotearoa/New Zealand
 
@@ -42,6 +49,8 @@ He Tangata Kei Tua [(PDF)](https://www.genomics-aotearoa.org.nz/sites/default/fi
 * project overview: https://www.genomics-aotearoa.org.nz/projects/rakeiora-pathfinder-genomic-medicine
 
 * news article: http://healthcentral.nz/5m-project-to-begin-building-nzs-first-gene-bank/
+
+-----
 
 ## Estonia genome project
 
@@ -58,6 +67,8 @@ Some news articles:
 * **Estonia offering 100,000 residents free genetic testing**: https://news.err.ee/690889/estonia-offering-100-000-residents-free-genetic-testing
 * **Estonia’s giant initiative to deliver the benefits of genetic data**: https://sciencebusiness.net/news/estonias-giant-initiative-deliver-benefits-genetic-data
 * **Estonia houses the biggest biobank in Europe**: https://www.forbes.com/sites/yiannismouratidis/2019/01/30/estonia-houses-the-biggest-biobank-in-europe/#128eed0b227a
+
+-----
 
 ## Taonga genomes
 
