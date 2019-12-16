@@ -26,7 +26,7 @@ If you are here you probably already know this, but just in case:
 >
 > *This unique opportunity will see New Zealand’s most promising young students come together to seek answers to some of the big problems supported and guided by mentors.*  
 > 
->   source: https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/powering-potential/about-powering-potential/
+>   source: [link](https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/powering-potential/about-powering-potential/)
 
 -----
 
@@ -42,18 +42,18 @@ This TED talk covers several of the points and topics we discussed on the aftern
 
 ##### facial recognition
 
-* **Facial recognition from DNA using face-to-DNA classifiers**: https://www.nature.com/articles/s41467-019-10617-y
+* **Facial recognition from DNA using face-to-DNA classifiers**: [link](https://www.nature.com/articles/s41467-019-10617-y)
 
-* **How Accurately Can Scientists Reconstruct A Person’s Face From DNA?**: https://www.smithsonianmag.com/innovation/how-accurately-can-scientists-reconstruct-persons-face-from-dna-180968951/
+* **How Accurately Can Scientists Reconstruct A Person’s Face From DNA?**: [link](https://www.smithsonianmag.com/innovation/how-accurately-can-scientists-reconstruct-persons-face-from-dna-180968951/)
 > *Predicting physical features from genetic data certainly has its limitations, but it is advancing. What does this mean for our privacy?
 
 ##### insurance
 
-* **Genetic testing, insurance discrimination and medical research: what the United States can learn from peer countries**: https://www.nature.com/articles/s41591-019-0534-z
+* **Genetic testing, insurance discrimination and medical research: what the United States can learn from peer countries**: [link](https://www.nature.com/articles/s41591-019-0534-z)
 
-* **What You Should Know About Insurance Before You Have Genetic Testing?**: https://www.forbes.com/sites/ellenmatloff/2019/06/26/what-you-should-know-about-insurance-before-you-have-genetic-testing/#36aff9c65734
+* **What You Should Know About Insurance Before You Have Genetic Testing?**: [link](https://www.forbes.com/sites/ellenmatloff/2019/06/26/what-you-should-know-about-insurance-before-you-have-genetic-testing/#36aff9c65734)
 
-* **Genetic Risk in Insurance Field**: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110137/
+* **Genetic Risk in Insurance Field**: [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110137/)
 
 ##### What is genetic discrimination?
 
@@ -65,7 +65,7 @@ This TED talk covers several of the points and topics we discussed on the aftern
 >
 > GINA and other laws do not protect people from genetic discrimination in every circumstance. For example, GINA does not apply when an employer has fewer than 15 employees. GINA also does not protect against genetic discrimination in forms of insurance other than health insurance, such as life, disability, or long-term care insurance.
 
-* *source https://ghr.nlm.nih.gov/primer/testing/discrimination*
+* *source [link](https://ghr.nlm.nih.gov/primer/testing/discrimination)*
 
 -----
 
@@ -73,7 +73,7 @@ This TED talk covers several of the points and topics we discussed on the aftern
 
 > *Genomics Aotearoa is an agile, leading-edge and collaborative platform, established to ensure that New Zealand is internationally participating and leading in the rapidly developing fields of genomics (the study of the genome, the complete set of genetic material present in a cell or organism) and bioinformatics (the development of methods and software tools for understanding the biological data derived from genomics). *
 
-* https://www.genomics-aotearoa.org.nz/
+* GA Website: [link](https://www.genomics-aotearoa.org.nz/)
 
 -----
 
@@ -81,7 +81,7 @@ This TED talk covers several of the points and topics we discussed on the aftern
 
 > *Māori ethical frameworks recognise that all research in New Zealand is of interest to Māori and outline community expectations of appropriate behaviour in research to deliver the best outcomes for Māori.*
 
-* https://www.genomics-aotearoa.org.nz/about/maori-and-genomics/guidelines
+* Guidelines: [link](https://www.genomics-aotearoa.org.nz/about/maori-and-genomics/guidelines)
 
 ### Te Mata Ira: Guidelines for genomic research with Māori
 M Hudson, A Beaton, M Milne, W Port, K Russell, B Smith, V Toki, L Uerata, P Wilcox  
@@ -109,9 +109,9 @@ He Tangata Kei Tua [(PDF)](https://www.genomics-aotearoa.org.nz/sites/default/fi
 
 > *A programme to improve genomic knowledge that will impact on the wellbeing of New Zealanders is being co-developed and co-governed with Māori. It is a “pathfinder” to test options to acquire, protect, use and store genomic datasets for use in healthcare research in Aotearoa New Zealand.*
 
-* project overview: https://www.genomics-aotearoa.org.nz/projects/rakeiora-pathfinder-genomic-medicine
+* project overview: [link](https://www.genomics-aotearoa.org.nz/projects/rakeiora-pathfinder-genomic-medicine)
 
-* news article: http://healthcentral.nz/5m-project-to-begin-building-nzs-first-gene-bank/
+* news article: [link](http://healthcentral.nz/5m-project-to-begin-building-nzs-first-gene-bank/)
 
 -----
 
