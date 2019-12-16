@@ -1,4 +1,4 @@
-# list of resources
+# A list of resources for Powering Potential students working on 'The Which Doctors' question.
 
 You can scan the below on your phone/tablet to access this site:  
 
