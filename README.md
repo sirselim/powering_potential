@@ -18,6 +18,13 @@ If you want to add a question for Miles, or a discussion point, or even somethin
 4. when you're ready click 'submit new issue'
 5. Miles will be notified, well done!
 
+## What is Powering Potential?
+
+> *Year 12-13 students who have a passion for science and technology are selected to work together in teams of five to help solve some of the big science issues.*
+>
+> *This unique opportunity will see New Zealand’s most promising young students come together to seek answers to some of the big problems supported and guided by mentors.*
+> source: https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/powering-potential/about-powering-potential/
+
 -----
 
 ## Whole genome sequencing
