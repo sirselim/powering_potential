@@ -4,6 +4,18 @@ You can scan the below on your phone/tablet to access this site:
 
 ![](frame.png)
 
+## NOTE
+
+If you want to add a question for Miles, or a discussion point, or even something that you found that you want to share, you can do so using this site.
+
+### steps
+
+1. click on the 'issues' link near the top of this page
+2. click 'new issue'
+3. add an issue title and then put your issue, question, content into the large text box.
+4. when you're ready click 'submit new issue'
+5. Miles will be notified, well done!
+
 -----
 
 ## Whole genome sequencing
