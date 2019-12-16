@@ -4,8 +4,9 @@
 Genomics Aotearoa
 
 
-Guidelines
-https://www.genomics-aotearoa.org.nz/about/maori-and-genomics/guidelines
+Te-Mata-Ira-Genome-Research-Guidelines
+
+* https://www.genomics-aotearoa.org.nz/about/maori-and-genomics/guidelines
 
 
 Rakeiora: A pathfinder for genomic medicine in Aotearoa/New Zealand
