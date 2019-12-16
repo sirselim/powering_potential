@@ -57,6 +57,7 @@ If you are here you probably already know this, but just in case:
 * we're approaching the point where this can be down on a 'tiny' portable device
 
 ![minION](https://spectrum.ieee.org/image/MjczMjE5MQ.jpeg)
+*source:* https://tinyurl.com/sblxlra
 
 -----
 
