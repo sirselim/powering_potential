@@ -9,6 +9,8 @@ Genomics Aotearoa
 
 Te-Mata-Ira-Genome-Research-Guidelines
 
+> *Māori ethical frameworks recognise that all research in New Zealand is of interest to Māori and outline community expectations of appropriate behaviour in research to deliver the best outcomes for Māori.*
+
 * https://www.genomics-aotearoa.org.nz/about/maori-and-genomics/guidelines
 
 
