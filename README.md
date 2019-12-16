@@ -25,7 +25,7 @@ If you are here you probably already know this, but just in case:
 > *Year 12-13 students who have a passion for science and technology are selected to work together in teams of five to help solve some of the big science issues.*
 >
 > *This unique opportunity will see New Zealand’s most promising young students come together to seek answers to some of the big problems supported and guided by mentors.*  
-> 
+>
 >   source: [link](https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/powering-potential/about-powering-potential/)
 
 -----
@@ -36,7 +36,7 @@ If you are here you probably already know this, but just in case:
 
 > *Secrets, disease and beauty are all written in the human genome, the complete set of genetic instructions needed to build a human being. Now, as scientist and entrepreneur Riccardo Sabatini shows us, we have the power to read this complex code, predicting things like height, eye color, age and even facial structure -- all from a vial of blood. And soon, Sabatini says, our new understanding of the genome will allow us to personalize treatments for diseases like cancer. We have the power to change life as we know it. How will we use it?*
 
-This TED talk covers several of the points and topics we discussed on the afternoon of the 16^th^ Dec 2019. Please use it only as a primer or refresher, it's just a snap shot of information presented from a single viewpoint.
+This TED talk covers several of the points and topics we discussed on the afternoon of the 16<sup>th^</sup> Dec 2019. Please use it only as a primer or refresher, it's just a snap shot of information presented from a single viewpoint.
 
 ### some selected articles/news/etc to get you started
 
@@ -45,7 +45,7 @@ This TED talk covers several of the points and topics we discussed on the aftern
 * **Facial recognition from DNA using face-to-DNA classifiers**: [link](https://www.nature.com/articles/s41467-019-10617-y)
 
 * **How Accurately Can Scientists Reconstruct A Person’s Face From DNA?**: [link](https://www.smithsonianmag.com/innovation/how-accurately-can-scientists-reconstruct-persons-face-from-dna-180968951/)
-> *Predicting physical features from genetic data certainly has its limitations, but it is advancing. What does this mean for our privacy?
+> *Predicting physical features from genetic data certainly has its limitations, but it is advancing. What does this mean for our privacy?*
 
 ##### insurance
 
@@ -157,9 +157,9 @@ Some interesting tweets:
 
 **Summer Internship for Indigenous Genomics Aotearoa**
 
-> *The SING Aotearoa programme is designed to develop indigenous understanding of genomics alongside some of the best researchers in New Zealand and the world.  It is a week-long residential internship programme providing participants with knowledge and experience in wet-labs (biological samples, DNA), dry labs (computer analysis, biostatistics) and simulation labs (cultural and ethical scenarios).
+> *The SING Aotearoa programme is designed to develop indigenous understanding of genomics alongside some of the best researchers in New Zealand and the world.  It is a week-long residential internship programme providing participants with knowledge and experience in wet-labs (biological samples, DNA), dry labs (computer analysis, biostatistics) and simulation labs (cultural and ethical scenarios).*
 >
-> Significant advances in the fields of genetics and genomics sees an increasing focus on Maori populations and indigenous species. Research conducted in Aotearoa New Zealand should involve consultation with Iwi Māori and it is important that Māori understand the technical, ethical and cultural issues when engaging with researchers in these projects.*
+> *Significant advances in the fields of genetics and genomics sees an increasing focus on Maori populations and indigenous species. Research conducted in Aotearoa New Zealand should involve consultation with Iwi Māori and it is important that Māori understand the technical, ethical and cultural issues when engaging with researchers in these projects.*
 
 **Conference 2020**: ([link](https://www.ivvy.com.au/event/SING2020/))
 *  University of Waikato in Hamilton, New Zealand on 23/24th January 2020
