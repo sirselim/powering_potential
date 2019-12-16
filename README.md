@@ -32,7 +32,7 @@ If you are here you probably already know this, but just in case:
 
 ## Whole genome sequencing
 
-### quick TED talk (https://www.ted.com/talks/riccardo_sabatini_how_to_read_the_genome_and_build_a_human_being?language=en)
+### TED talk - 15 mins [(link)](https://www.ted.com/talks/riccardo_sabatini_how_to_read_the_genome_and_build_a_human_being?language=en)
 
 > *Secrets, disease and beauty are all written in the human genome, the complete set of genetic instructions needed to build a human being. Now, as scientist and entrepreneur Riccardo Sabatini shows us, we have the power to read this complex code, predicting things like height, eye color, age and even facial structure -- all from a vial of blood. And soon, Sabatini says, our new understanding of the genome will allow us to personalize treatments for diseases like cancer. We have the power to change life as we know it. How will we use it?*
 
