@@ -1,8 +1,10 @@
 # list of resources
 
+You can scan the below on your phone/tablet to access this site:
 ![](frame.png)
 
 Genomics Aotearoa
+* https://www.genomics-aotearoa.org.nz/
 
 
 Te-Mata-Ira-Genome-Research-Guidelines
