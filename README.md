@@ -72,4 +72,6 @@ Some news articles:
 
 ## Taonga genomes
 
-https://sciblogs.co.nz/genomics-aotearoa/2015/07/26/taonga-genomes/
+> *Taonga species are native birds, plants and animals of special cultural significance and importance to Māori.*
+
+* older blog post but still very relevant (from the now director of Genomics Aotearoa): https://sciblogs.co.nz/genomics-aotearoa/2015/07/26/taonga-genomes/
