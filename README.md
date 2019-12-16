@@ -46,9 +46,6 @@ This TED talk covers several of the points and topics we discussed on the aftern
 
 * **How Accurately Can Scientists Reconstruct A Person’s Face From DNA?**: https://www.smithsonianmag.com/innovation/how-accurately-can-scientists-reconstruct-persons-face-from-dna-180968951/
 > *Predicting physical features from genetic data certainly has its limitations, but it is advancing. What does this mean for our privacy?
-Read more: https://www.smithsonianmag.com/innovation/how-accurately-can-scientists-reconstruct-persons-face-from-dna-180968951/#LqFrqefwKMUHVpXp.99
-Give the gift of Smithsonian magazine for only $12! http://bit.ly/1cGUiGv
-Follow us: @SmithsonianMag on Twitter*
 
 ##### insurance
 
@@ -145,6 +142,12 @@ Some news articles:
 ### Taonga more generally (interesting tweets)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wonderful to hear about data sovereignty <a href="https://twitter.com/GenomicsNZ?ref_src=twsrc%5Etfw">@GenomicsNZ</a> with Dr Ann McMartney. Working with the custodians of indigenous species to ensure respectful data use <a href="https://twitter.com/hashtag/alcs2019?src=hash&amp;ref_src=twsrc%5Etfw">#alcs2019</a> <a href="https://twitter.com/NCInews?ref_src=twsrc%5Etfw">@NCInews</a> <a href="https://t.co/pmuE16OQeD">pic.twitter.com/pmuE16OQeD</a></p>&mdash; Dr Rebecca Farrington (@_BecFarrington_) <a href="https://twitter.com/_BecFarrington_/status/1192286498101448706?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Oh hey, it&#39;s <a href="https://twitter.com/otago?ref_src=twsrc%5Etfw">@otago</a> &#39;s (<a href="https://twitter.com/hashtag/ANATOtago?src=hash&amp;ref_src=twsrc%5Etfw">#ANATOtago</a>) own Anna Clark (<a href="https://twitter.com/Anna44545148?ref_src=twsrc%5Etfw">@Anna44545148</a>) telling the world about her awesome research and the importance of our taonga species...<a href="https://t.co/RXC9S8PM3y">https://t.co/RXC9S8PM3y</a></p>&mdash; Charlie King (@showmethemummy) <a href="https://twitter.com/showmethemummy/status/1176297296578793472?ref_src=twsrc%5Etfw">September 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Regardless of the approach used to generate a reference genome or population genomic data, all genomic data belonging to taonga (treasured) species in Aotearoa New Zealand have whakapapa and are taonga in their own right.&quot; - Collier-Robinson et al. <a href="https://t.co/X0gM3F9Yvg">https://t.co/X0gM3F9Yvg</a> 2/n <a href="https://t.co/rIWlS2cP1f">pic.twitter.com/rIWlS2cP1f</a></p>&mdash; Tammy Steeves 🧬🌿🦗🦞🐟🐦🧬 (@testeeves) <a href="https://twitter.com/testeeves/status/1181075184981168128?ref_src=twsrc%5Etfw">October 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some ideas I wrote about the future of our digital economy. Data as taonga, privacy, security and innovation. Also some brickbats. <a href="https://t.co/YFL2cKN1Zi">https://t.co/YFL2cKN1Zi</a></p>&mdash; Don Christie (@normnz) <a href="https://twitter.com/normnz/status/1103016109119176709?ref_src=twsrc%5Etfw">March 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 -----
 
