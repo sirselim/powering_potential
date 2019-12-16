@@ -20,6 +20,8 @@ If you want to add a question for Miles, or a discussion point, or even somethin
 
 ## What is Powering Potential?
 
+If you are here you probably already know this, but just in case:
+
 > *Year 12-13 students who have a passion for science and technology are selected to work together in teams of five to help solve some of the big science issues.*
 >
 > *This unique opportunity will see New Zealand’s most promising young students come together to seek answers to some of the big problems supported and guided by mentors.*
