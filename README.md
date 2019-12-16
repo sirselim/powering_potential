@@ -134,6 +134,8 @@ Some news articles:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finally, v4.0 is here! 🎉 Instant Analytics view, R Markdown integration, Bayesian A/B Testing &amp;more! <a href="https://t.co/lt1l3FXgHz">https://t.co/lt1l3FXgHz</a></p>&mdash; exploratory (@ExploratoryData) <a href="https://twitter.com/ExploratoryData/status/895164490936979456">August 9, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+ {% twitter 834439977220112384 %}
+
 -----
 
 ## SING Aotearoa (https://www.singaotearoa.nz/) - Summer Internship for Indigenous Genomics Aotearoa
