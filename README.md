@@ -29,6 +29,12 @@ October 2016
 
 He Tangata Kei Tua [(PDF)](https://www.genomics-aotearoa.org.nz/sites/default/files/2019-03/He-Tangata-Kei-Tua-Biobanking-Guidelines.pdf)
 
+## The Global Alliance for Genomics and Health (https://www.ga4gh.org/)
+
+**Enabling responsible genomic data sharing for the benefit of human health**
+
+> *The Global Alliance for Genomics and Health (GA4GH) is a policy-framing and technical standards-setting organization, seeking to enable responsible genomic data sharing [within a human rights framework](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/framework-for-responsible-sharing-of-genomic-and-health-related-data/).*
+
 ## Rakeiora: A pathfinder for genomic medicine in Aotearoa/New Zealand
 
 > *A programme to improve genomic knowledge that will impact on the wellbeing of New Zealanders is being co-developed and co-governed with Māori. It is a “pathfinder” to test options to acquire, protect, use and store genomic datasets for use in healthcare research in Aotearoa New Zealand.*
@@ -50,4 +56,9 @@ Estonia launched a population based, voluntary, longitudinal prospective researc
 Some news articles:
 
 * **Estonia offering 100,000 residents free genetic testing**: https://news.err.ee/690889/estonia-offering-100-000-residents-free-genetic-testing
-* 
+* **Estonia’s giant initiative to deliver the benefits of genetic data**: https://sciencebusiness.net/news/estonias-giant-initiative-deliver-benefits-genetic-data
+* **Estonia houses the biggest biobank in Europe**: https://www.forbes.com/sites/yiannismouratidis/2019/01/30/estonia-houses-the-biggest-biobank-in-europe/#128eed0b227a
+
+## Taonga genomes
+
+https://sciblogs.co.nz/genomics-aotearoa/2015/07/26/taonga-genomes/
