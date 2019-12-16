@@ -12,7 +12,7 @@ You can scan the below on your phone/tablet to access this site:
 
 > *Secrets, disease and beauty are all written in the human genome, the complete set of genetic instructions needed to build a human being. Now, as scientist and entrepreneur Riccardo Sabatini shows us, we have the power to read this complex code, predicting things like height, eye color, age and even facial structure -- all from a vial of blood. And soon, Sabatini says, our new understanding of the genome will allow us to personalize treatments for diseases like cancer. We have the power to change life as we know it. How will we use it?*
 
-This TED talk covers several of the points and topics we discussed on the afternoon of the 16^th^ Dec 2019.
+This TED talk covers several of the points and topics we discussed on the afternoon of the 16^th^ Dec 2019. Please use it only as a primer or refresher, it's just a snap shot of information presented from a single viewpoint.
 
 -----
 
