@@ -12,7 +12,7 @@ If you want to add a question for Miles, or a discussion point, or even somethin
 
 ### steps
 
-1. click on the 'issues' link near the top of this page
+1. click on the 'issues' link near the top of this page ([or click here](https://github.com/sirselim/powering_potential/issues))
 2. click 'new issue'
 3. add an issue title and then put your issue, question, content into the large text box.
 4. when you're ready click 'submit new issue'
