@@ -28,9 +28,23 @@ Follow us: @SmithsonianMag on Twitter*
 
 ##### insurance
 
+* **Genetic testing, insurance discrimination and medical research: what the United States can learn from peer countries**: https://www.nature.com/articles/s41591-019-0534-z
+
 * **What You Should Know About Insurance Before You Have Genetic Testing?**: https://www.forbes.com/sites/ellenmatloff/2019/06/26/what-you-should-know-about-insurance-before-you-have-genetic-testing/#36aff9c65734
 
 * **Genetic Risk in Insurance Field**: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110137/
+
+##### What is genetic discrimination?
+
+> Genetic discrimination occurs when people are treated differently by their employer or insurance company because they have a gene mutation that causes or increases the risk of an inherited disorder. Fear of discrimination is a common concern among people considering genetic testing.
+>
+> Several laws at the federal and state levels help protect people against genetic discrimination. In particular, a federal law called the Genetic Information Nondiscrimination Act (GINA) is designed to protect people from this form of discrimination.
+>
+> GINA has two parts: Title I, which prohibits genetic discrimination in health insurance, and Title II, which prohibits genetic discrimination in employment. Title I makes it illegal for health insurance providers to use or require genetic information to make decisions about a person's insurance eligibility or coverage. This part of the law went into effect on May 21, 2009. Title II makes it illegal for employers to use a person's genetic information when making decisions about hiring, promotion, and several other terms of employment. This part of the law went into effect on November 21, 2009.
+>
+> GINA and other laws do not protect people from genetic discrimination in every circumstance. For example, GINA does not apply when an employer has fewer than 15 employees. GINA also does not protect against genetic discrimination in forms of insurance other than health insurance, such as life, disability, or long-term care insurance.
+
+* *source https://ghr.nlm.nih.gov/primer/testing/discrimination*
 
 -----
 
