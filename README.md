@@ -14,6 +14,24 @@ You can scan the below on your phone/tablet to access this site:
 
 This TED talk covers several of the points and topics we discussed on the afternoon of the 16^th^ Dec 2019. Please use it only as a primer or refresher, it's just a snap shot of information presented from a single viewpoint.
 
+### some selected articles/news/etc to get you started
+
+##### facial recognition
+
+* **Facial recognition from DNA using face-to-DNA classifiers**: https://www.nature.com/articles/s41467-019-10617-y
+
+* **How Accurately Can Scientists Reconstruct A Person’s Face From DNA?**: https://www.smithsonianmag.com/innovation/how-accurately-can-scientists-reconstruct-persons-face-from-dna-180968951/
+> *Predicting physical features from genetic data certainly has its limitations, but it is advancing. What does this mean for our privacy?
+Read more: https://www.smithsonianmag.com/innovation/how-accurately-can-scientists-reconstruct-persons-face-from-dna-180968951/#LqFrqefwKMUHVpXp.99
+Give the gift of Smithsonian magazine for only $12! http://bit.ly/1cGUiGv
+Follow us: @SmithsonianMag on Twitter*
+
+##### insurance
+
+* **What You Should Know About Insurance Before You Have Genetic Testing?**: https://www.forbes.com/sites/ellenmatloff/2019/06/26/what-you-should-know-about-insurance-before-you-have-genetic-testing/#36aff9c65734
+
+* **Genetic Risk in Insurance Field**: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110137/
+
 -----
 
 ## Genomics Aotearoa
