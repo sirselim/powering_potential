@@ -30,6 +30,19 @@ If you are here you probably already know this, but just in case:
 
 -----
 
+## The Human Genome Project
+
+* a 13-year-long, publicly funded project
+  * initiated in 1990
+  * 'completed' 2003
+  * so 13 years total (was estimated to be 15 years)
+* the human genome is ~3,234.83 Mb (**3.2 billion base pairs**)
+* the project cost ~$3 billion USD
+  * that equates to roughly $1 per base pair
+* the 'completed' genome was a mosaic, i.e. a combination of multiple different genomes from donors
+
+-----
+
 ## Whole genome sequencing
 
 ### TED talk - 15 mins [(link)](https://www.ted.com/talks/riccardo_sabatini_how_to_read_the_genome_and_build_a_human_being?language=en)
