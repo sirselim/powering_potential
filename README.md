@@ -17,10 +17,22 @@ You can scan the below on your phone/tablet to access this site:
 
 * https://www.genomics-aotearoa.org.nz/about/maori-and-genomics/guidelines
 
+### Te Mata Ira: Guidelines for genomic research with Māori
+M Hudson, A Beaton, M Milne, W Port, K Russell, B Smith, V Toki, L Uerata, P Wilcox
+October 2016
+
+Te Mata Ira [PDF](https://www.genomics-aotearoa.org.nz/sites/default/files/2019-03/Te-Mata-Ira-Genome-Research-Guidelines.pdf)
+
+### He Tangata Kei Tua: Guidelines for biobanking with Māori
+M Hudson, A Beaton, M Milne, W Port, K Russell, B Smith, V Toki, L Uerata, P Wilcox
+October 2016
+
+He Tangata Kei Tua [PDF](https://www.genomics-aotearoa.org.nz/sites/default/files/2019-03/He-Tangata-Kei-Tua-Biobanking-Guidelines.pdf)
 
 ## Rakeiora: A pathfinder for genomic medicine in Aotearoa/New Zealand
 
 > *A programme to improve genomic knowledge that will impact on the wellbeing of New Zealanders is being co-developed and co-governed with Māori. It is a “pathfinder” to test options to acquire, protect, use and store genomic datasets for use in healthcare research in Aotearoa New Zealand.*
 
-* https://www.genomics-aotearoa.org.nz/projects/rakeiora-pathfinder-genomic-medicine
+* project overview: https://www.genomics-aotearoa.org.nz/projects/rakeiora-pathfinder-genomic-medicine
 
+* news article: http://healthcentral.nz/5m-project-to-begin-building-nzs-first-gene-bank/
