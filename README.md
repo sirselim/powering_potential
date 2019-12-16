@@ -133,7 +133,8 @@ Some news articles:
 ### Taonga more generally (interesting tweets)
 
 <p>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wonderful to hear about data sovereignty <a href="https://twitter.com/GenomicsNZ?ref_src=twsrc%5Etfw">@GenomicsNZ</a> with Dr Ann McMartney. Working with the custodians of indigenous species to ensure respectful data use <a href="https://twitter.com/hashtag/alcs2019?src=hash&amp;ref_src=twsrc%5Etfw">#alcs2019</a> <a href="https://twitter.com/NCInews?ref_src=twsrc%5Etfw">@NCInews</a> <a href="https://t.co/pmuE16OQeD">pic.twitter.com/pmuE16OQeD</a></p>&mdash; Dr Rebecca Farrington (@_BecFarrington_) <a href="https://twitter.com/_BecFarrington_/status/1192286498101448706?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Check out my iOS game, High5! <a href="https://t.co/QZEKLg3G2i">https://t.co/QZEKLg3G2i</a></p>&mdash; Keita Ito (@keitaitok) <a href="https://twitter.com/keitaitok/status/504110217940836353">August 26, 2014</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
 -----
