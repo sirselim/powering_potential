@@ -75,3 +75,14 @@ Some news articles:
 > *Taonga species are native birds, plants and animals of special cultural significance and importance to Māori.*
 
 * older blog post but still very relevant (from the now director of Genomics Aotearoa): https://sciblogs.co.nz/genomics-aotearoa/2015/07/26/taonga-genomes/
+
+-----
+
+## SING Aotearoa (https://www.singaotearoa.nz/) - Summer Internship for Indigenous Genomics Aotearoa
+
+> *The SING Aotearoa programme is designed to develop indigenous understanding of genomics alongside some of the best researchers in New Zealand and the world.  It is a week-long residential internship programme providing participants with knowledge and experience in wet-labs (biological samples, DNA), dry labs (computer analysis, biostatistics) and simulation labs (cultural and ethical scenarios).
+>
+> Significant advances in the fields of genetics and genomics sees an increasing focus on Maori populations and indigenous species. Research conducted in Aotearoa New Zealand should involve consultation with Iwi Māori and it is important that Māori understand the technical, ethical and cultural issues when engaging with researchers in these projects.*
+
+**Conference 2020**: https://www.ivvy.com.au/event/SING2020/
+*  University of Waikato in Hamilton, New Zealand on 23/24th January 2020
