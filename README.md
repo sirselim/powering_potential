@@ -1,5 +1,7 @@
 # A list of resources for Powering Potential students working on 'The Which Doctors' question.
 
+A slightly friendlier version of this site can be seen [here](https://sirselim.github.io/powering_potential/).
+
 You can scan the below on your phone/tablet to access this site:  
 
 ![](frame.png)
