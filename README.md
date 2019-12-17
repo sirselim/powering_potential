@@ -82,13 +82,10 @@ The Ethical, Legal, and Social Implications (ELSI) program was founded in 1990 a
 
 The ELSI program focused on the possible consequences of genomic research in four main areas:
 
-    Privacy and fairness in the use of genetic information, including the potential for genetic discrimination in employment and insurance.
-
-    The integration of new genetic technologies, such as genetic testing, into the practice of clinical medicine.
-
-    Ethical issues surrounding the design and conduct of genetic research with people, including the process of informed consent.
-
-    The education of healthcare professionals, policy makers, students, and the public about genetics and the complex issues that result from genomic research.
+* Privacy and fairness in the use of genetic information, including the potential for genetic discrimination in employment and insurance.
+* The integration of new genetic technologies, such as genetic testing, into the practice of clinical medicine.
+* Ethical issues surrounding the design and conduct of genetic research with people, including the process of informed consent.
+* The education of healthcare professionals, policy makers, students, and the public about genetics and the complex issues that result from genomic research.
 
 * **Routine DNA Sequencing May Be Helpful And Not As Scary As Feared**: [link](https://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared)
 * **Reconceptualizing harms and benefits in the genomic age**: [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6295320/)
