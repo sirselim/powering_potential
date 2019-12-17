@@ -73,6 +73,31 @@ This TED talk covers several of the points and topics we discussed on the aftern
 
 ### some selected articles/news/etc to get you started
 
+#### What were some of the ethical, legal, and social implications addressed by the Human Genome Project?
+
+Below from [here](https://ghr.nlm.nih.gov/primer/hgp/elsi):
+
+The Ethical, Legal, and Social Implications (ELSI) program was founded in 1990 as an integral part of the Human Genome Project. The mission of the ELSI program was to identify and address issues raised by genomic research that would affect individuals, families, and society. A percentage of the Human Genome Project budget at the National Institutes of Health and the U.S. Department of Energy was devoted to ELSI research.
+
+The ELSI program focused on the possible consequences of genomic research in four main areas:
+
+    Privacy and fairness in the use of genetic information, including the potential for genetic discrimination in employment and insurance.
+
+    The integration of new genetic technologies, such as genetic testing, into the practice of clinical medicine.
+
+    Ethical issues surrounding the design and conduct of genetic research with people, including the process of informed consent.
+
+    The education of healthcare professionals, policy makers, students, and the public about genetics and the complex issues that result from genomic research.
+
+* **Routine DNA Sequencing May Be Helpful And Not As Scary As Feared**: [link](https://www.npr.org/sections/health-shots/2017/06/26/534338576/routine-dna-sequencing-may-be-helpful-and-not-as-scary-as-feared)
+* **Reconceptualizing harms and benefits in the genomic age**: [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6295320/)
+* **Age and perceived risks and benefits of preventive genomic screening**: [link](https://www.ncbi.nlm.nih.gov/pubmed/29215654)
+
+##### Benefits and implications of learning about your DNA
+
+> *Personal genome sequencing is uncharted waters in our society. The benefits and implications of sequencing are likely to be connected, complex, and largely unknowable until years have passed and the consequences are examined across several generations. However, thinking through the issues surrounding personal genomics now, rather than later, may help to avoid potential pitfalls and ensure that the good outweighs the bad.*  
+> [link](https://pged.org/benefits-and-risks-of-learning-about-your-dna/)
+
 ##### facial recognition
 
 * **Facial recognition from DNA using face-to-DNA classifiers**: [link](https://www.nature.com/articles/s41467-019-10617-y)
