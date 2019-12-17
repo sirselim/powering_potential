@@ -94,7 +94,7 @@ The ELSI program focused on the possible consequences of genomic research in fou
 ##### Benefits and implications of learning about your DNA
 
 > *Personal genome sequencing is uncharted waters in our society. The benefits and implications of sequencing are likely to be connected, complex, and largely unknowable until years have passed and the consequences are examined across several generations. However, thinking through the issues surrounding personal genomics now, rather than later, may help to avoid potential pitfalls and ensure that the good outweighs the bad.*  
-> [link](https://pged.org/benefits-and-risks-of-learning-about-your-dna/)
+> *[link](https://pged.org/benefits-and-risks-of-learning-about-your-dna/)*
 
 ##### facial recognition
 
