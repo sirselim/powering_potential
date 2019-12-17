@@ -195,6 +195,9 @@ Some news articles:
 
 * older blog post but still very relevant (from the now director of Genomics Aotearoa): [link](https://sciblogs.co.nz/genomics-aotearoa/2015/07/26/taonga-genomes/)
 
+* the kiwi genome was sequenced in 2015: [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0711-4)
+  * there were not NZ authors, researchers or affiliates...
+
 ### Taonga more generally 
 
 Some interesting tweets:
